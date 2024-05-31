@@ -6,8 +6,11 @@ The Appetizer iOS App is a streamlined mobile application designed for seamless 
 
 ## Key Features:
 Network Efficiency: Employing a custom network manager utilizing the Codable protocol, the app optimizes network calls to retrieve appetizer lists while prioritizing error handling to ensure stability.
+
 Image Caching: To minimize network usage, the app intelligently caches images, reducing redundant downloads and enhancing overall performance.
+
 SwiftUI Components: Utilizing SwiftUI form elements and implementing robust text validation, the app ensures a smooth and intuitive user experience.
+
 iOS 15 Focus State Integration: Enhancing user interaction on the Account screen, the app integrates iOS 15's focus state for improved accessibility and usability.
 The Home screen presents a curated list of available appetizers, while the My Account screen offers personalized user information. The Orders screen conveniently displays the current list of appetizer orders, providing users with an easy overview of their selections.
 
